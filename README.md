@@ -1,4 +1,4 @@
-# Fecth With Javascript
+# Fecth with Javascript
 
 Projeto criado do zero como forma de treinar Javascript.
 
